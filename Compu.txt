@@ -1,0 +1,17 @@
+Procesador AMD Ryzen 5 3600X, S-AM4, 3.80GHz, 6-Core, 32MB L3 Cache, con Disipador Wraith Spire
+
+Tarjeta Madre AORUS B450 AORUS PRO WIFI, S-AM4, AMD B450, HDMI, 64GB DDR4 para AMD
+
+Tarjeta de Video Sapphire AMD Pulse RX 5600 XT, 6GB 192-bit GDDR6, PCI Express x16 4.0
+
+2x Memoria RAM HyperX FURY Black DDR4, 3200MHz, 8GB, Non-ECC, CL16, XMP
+
+SSD Adata ASU800, 256GB, SATA III, M.2, 3.5mm
+
+Disco Duro Interno Seagate Barracuda 3.5'', 4TB, SATA III, 6 Gbit/s, 5400RPM, 256MB Cache
+
+Fuente de Poder Corsair VS650 80 PLUS White, 24-pin ATX, 120mm, 650W
+
+Gabinete Cooler Master MasterBox Lite 5 RGB con Ventana, Midi-Tower, ATX/Micro-ATX/Mini-ITX, USB 3.0
+
+Monitor Gamer LG 24MP59G-P LED 23.8'', Full HD, 75Hz, Widescreen, FreeSync, HDMI, Negro
